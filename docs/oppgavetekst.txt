@@ -1,0 +1,11 @@
+Oppgave 4: Dynamisk knapp 
+
+Lag en funksjon som tar inn:
+- tekst på knappen
+- bakgrunnsfarge
+- tekstfarge
+
+Funksjonen skal:
+- lage en <button> med de verdiene
+- legge knappen til på siden
+- kunne brukes flere ganger for å lage flere knapper
